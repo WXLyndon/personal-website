@@ -64,30 +64,7 @@ class Header extends Component {
 
         <div className="row banner">
           <div className="banner-text">
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
             <h1 className="responsive-headline">I'm {name}.</h1>
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
             <h3>
               {" "}
               <font color="white" size="4">
