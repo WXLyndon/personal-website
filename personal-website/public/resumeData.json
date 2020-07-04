@@ -2,7 +2,7 @@
   "main": {
     "name":"Xuanlin Wang",
     "occupation":"Computer Science and Statistics Undergraduate Student",
-    "description":"Interested in software development. Dedicated to solving the real-world problem using the software. Proficient in Python, Java, JS, etc. Have made several desktops, mobile and web apps. ",
+    "description":"Interested in software development. Dedicated to solving the real-world problem using the software. Proficient in Python, Java, C, JS, etc. Have made several desktops, mobile and web apps. ",
     "image":"profilepic.jpg",
     "bio":"A fourth-year computer science and statistic student studying at the University of Toronto. Interested in software development. Dedicated to solving the real-world problem using the software. Proficient in Python, Java, JS, etc. Have made several desktops, mobile and web apps. ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -138,12 +138,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Talk is cheap, show me the code.",
+        "user":"Linus Torvalds"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"The greatest test of courage on earth is to bear defeat without losing heart.",
+        "user":"Unknown"
       }
     ]
   }
