@@ -54,6 +54,11 @@ class Header extends Component {
                 Testimonials
               </a>
             </li>
+            <li>
+              <a target="_blank" href="https://blog.xuanlinwang.com" >
+                Blog
+              </a>
+            </li>
             {/* <li>
               <a className="smoothscroll" href="#contact">
                 Contact
