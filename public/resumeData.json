@@ -2,9 +2,9 @@
   "main": {
     "name":"Xuanlin Wang",
     "occupation":"Computer Science and Statistics Undergraduate Student",
-    "description":"Interested in software development. Dedicated to solving the real-world problem using the software programming. Proficient in Python, Java, C, JS, etc. Have made several desktops, mobile and web apps.",
+    "description":"Interested in software development. Dedicated to solving the real-world problem using the software programming. Proficient in Python, Java, C, JS, etc., currently seeking full-time opportunities in software engineering",
     "image":"profilepic.jpg",
-    "bio":"A fourth-year computer science and statistic student studying at the University of Toronto. Interested in software development. Dedicated to solving the real-world problem using the software programming. Proficient in Python, Java, JS, etc. Have made several desktops, mobile and web apps. ",
+    "bio":"An Honours Bachelor of Science majored in computer science and statistic at the University of Toronto. Interested in software development. Dedicated to solving real-world problems using the software. Proficient in Python, Java, C, etc. ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "xuanlin.wang@mail.utoronto.ca",
     "phone": "6478986618",
@@ -18,6 +18,16 @@
     "resumedownload":"Resume_XuanlinWang.pdf",
     "social":[
       {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/xuanlin-wang/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/WXLyndon",
+        "className":"fa fa-github"
+      },
+      {
         "name":"facebook",
         "url":"https://www.facebook.com/xuanlin.lyndon",
         "className":"fa fa-facebook"
@@ -28,19 +38,9 @@
         "className":"fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/xuanlin-wang-a5b71b102/",
-        "className":"fa fa-linkedin"
-      },
-      {
         "name":"instagram",
         "url":"https://www.instagram.com/wxl0817/",
         "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/WXLyndon",
-        "className":"fa fa-github"
       }
     ]
   },
@@ -50,7 +50,7 @@
       {
         "school":"University of Toronto",
         "degree":"Honor Bachelor of Science double majored in Computer Science and Statistics",
-        "graduated":"November, 2020 (Expected)",
+        "graduated":"November, 2020",
         "description":""
       }
     ],
@@ -65,34 +65,34 @@
     "skills":[
       {
         "name":"Git",
-        "level":"90%"
+        "level":"80%"
       }, 
       {
         "name":"Java",
-        "level":"90%"
-      },
-      {
-        "name":"Python",
-        "level":"90%"
-      },
-      {
-        "name":"C",
-        "level":"90%"
-      },
-      {
-        "name":"R",
-        "level":"85%"
-      },
-      {
-        "name":"ReactJs",
         "level":"80%"
       },
       {
-        "name":"C++",
+        "name":"Python",
         "level":"80%"
       },
       {
         "name":"PostgreSQL",
+        "level":"80%"
+      },
+      {
+        "name":"C",
+        "level":"75%"
+      },
+      {
+        "name":"R",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
         "level":"60%"
       },
       {
