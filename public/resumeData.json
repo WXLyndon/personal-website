@@ -59,7 +59,7 @@
         "company":"Honeybee Hub Inc.",
         "title":"Software Develper ",
         "years":"May 2019 - August 2019",
-        "description":"Help to build both the frontend and the backend of the web platform by using the React.js, MongoDB and express.js: 1. Implemented the address autocomplete form by using the Google Maps API. \n 2. Helped to design and implement the database by using the MongoDB."
+        "description":"1. Working with two other co-founders, design and develop a web application for an online board to post research studies for researcher to find participants. 2. Designed and implemented the search functionality across studies, enabling full-text search by keyword and proximity of address. 3. esigned and implemented the database layer with MongoDB. 4. Defined UX requirements and implemented the front-end using ReactJS. 5. Proposed, designed and implemented an interactive address autocomplete form by using the Google Maps API."
       }
     ],
     "skills":[
