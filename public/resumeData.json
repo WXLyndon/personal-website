@@ -1,149 +1,153 @@
 {
   "main": {
-    "name":"Xuanlin Wang",
-    "occupation":"Computer Science and Statistics Undergraduate Student",
-    "description":"Interested in software development. Dedicated to solving the real-world problem using the software programming. Proficient in Python, Java, C, JS, etc., currently seeking full-time opportunities in software engineering",
-    "image":"profilepic.jpg",
-    "bio":"An Honours Bachelor of Science majored in computer science and statistic at the University of Toronto. Interested in software development. Dedicated to solving real-world problems using the software. Proficient in Python, Java, C, etc. ",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "name": "Xuanlin Wang",
+    "occupation": "Computer Science and Statistics Undergraduate Student",
+    "description": "Interested in software development. Dedicated to solving the real-world problem using the software programming. Proficient in Python, Java, C, JS, etc., currently seeking full-time opportunities in software engineering",
+    "image": "profilepic.jpg",
+    "bio": "An Honours Bachelor of Science majored in computer science and statistic at the University of Toronto. Interested in software development. Dedicated to solving real-world problems using the software. Proficient in Python, Java, C, etc. ",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "xuanlin.wang@mail.utoronto.ca",
     "phone": "6478986618",
-    "address":{
-      "street":"7 Grenville St",
-      "city":"Toronto",
-      "state":"Ontairo",
+    "address": {
+      "street": "7 Grenville St",
+      "city": "Toronto",
+      "state": "Ontairo",
       "zip": "M4Y 0E9"
     },
     "website": "http://www.xuanlinwang.com",
-    "resumedownload":"Resume_XuanlinWang.pdf",
-    "social":[
+    "resumedownload": "Resume_XuanlinWang.pdf",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/xuanlin-wang/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/xuanlin-wang/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/WXLyndon",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/WXLyndon",
+        "className": "fa fa-github"
       },
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/xuanlin.lyndon",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/xuanlin.lyndon",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"https://twitter.com/XuanlinW",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/XuanlinW",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/wxl0817/",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "https://www.instagram.com/wxl0817/",
+        "className": "fa fa-instagram"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"",
-    "education":[
+  "resume": {
+    "skillmessage": "",
+    "education": [
       {
-        "school":"University of Toronto",
-        "degree":"Honor Bachelor of Science double majored in Computer Science and Statistics",
-        "graduated":"November, 2020",
-        "description":""
+        "school": "University of Toronto",
+        "degree": "Honor Bachelor of Science double majored in Computer Science and Statistics",
+        "graduated": "November, 2020",
+        "description": ""
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Honeybee Hub Inc.",
-        "title":"Software Develper ",
-        "years":"May 2019 - August 2019",
-        "description":"1. Working with two other co-founders, design and develop a web application for an online board to post research studies for researcher to find participants. 2. Designed and implemented the search functionality across studies, enabling full-text search by keyword and proximity of address. 3. esigned and implemented the database layer with MongoDB. 4. Defined UX requirements and implemented the front-end using ReactJS. 5. Proposed, designed and implemented an interactive address autocomplete form by using the Google Maps API."
+        "company": "Honeybee Hub Inc.",
+        "title": "Software Develper ",
+        "years": "May 2019 - August 2019",
+        "description": "1. Working with two co-founders, designing and developing a web application for an online board to post research studies for researchers to find participants. 2. Designed and implemented the search functionality across studies, enabling full-text search by keyword and address proximity. 3. Designed and implemented the database layer with MongoDB. 4. Defined UX requirements and implemented the front-end using ReactJS. 5. Proposed, designed and implemented an interactive address autocomplete form using the Google Maps API."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git",
-        "level":"80%"
-      }, 
-      {
-        "name":"Java",
-        "level":"80%"
+        "name": "Git",
+        "level": "80%"
       },
       {
-        "name":"Python",
-        "level":"80%"
+        "name": "Java",
+        "level": "80%"
       },
       {
-        "name":"PostgreSQL",
-        "level":"80%"
+        "name": "Python",
+        "level": "80%"
       },
       {
-        "name":"C",
-        "level":"75%"
+        "name": "ReactJs",
+        "level": "75%"
       },
       {
-        "name":"R",
-        "level":"75%"
+        "name": "PostgreSQL",
+        "level": "75%"
       },
       {
-        "name":"ReactJs",
-        "level":"70%"
+        "name": "JavaScript",
+        "level": "75%"
       },
       {
-        "name":"C++",
-        "level":"60%"
+        "name": "C",
+        "level": "75%"
       },
       {
-        "name":"MongoDB",
-        "level":"50%"
+        "name": "R",
+        "level": "70%"
+      },
+      {
+        "name": "C++",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Talk is cheap, show me the code.",
-        "user":"Linus Torvalds"
+        "text": "Talk is cheap, show me the code.",
+        "user": "Linus Torvalds"
       },
       {
-        "text":"The greatest test of courage on earth is to bear defeat without losing heart.",
-        "user":"Unknown"
+        "text": "The greatest test of courage on earth is to bear defeat without losing heart.",
+        "user": "Unknown"
       }
     ]
   }
